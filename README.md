@@ -1,4 +1,4 @@
-## Hi there 👋
+## I apply interdisciplinary ecology research on marine ecosystems to address the challenges and opportunities of coastal communities. My current research focuses on the socio-ecological dynamics of coral reef restoration and conservation in the Caribbean region.
 
 <!--
 **natiocean/natiocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
